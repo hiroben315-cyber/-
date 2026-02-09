@@ -1,0 +1,8 @@
+{
+  "name": "Titanium Script Canvas",
+  "description": "A high-end, infinitely zoomable script and shot planning canvas with a Deep Titanium aesthetic, featuring metallic glassmorphism and motion-fluid interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
